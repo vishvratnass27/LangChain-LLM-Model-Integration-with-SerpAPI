@@ -1,5 +1,4 @@
-# LangChain LLM Model Integration with SerpAPI
-
+# LangChain-Based LLM Implementation with Tools and Search Capabilities
 This repository demonstrates how to set up and use LangChain with OpenAI's LLM, SerpAPI for real-time search, and various tools and agents. It also explains the use of environment variables to securely manage API keys
 
 # Features
